@@ -6,8 +6,8 @@
     "en": "CO₂ avoided and money saved by riding instead of driving, from your Strava trips.",
     "fr": "CO₂ évité et argent économisé en vélo plutôt qu’en voiture, d’après vos trajets Strava."
   },
-  "version": "0.1.0",
-  "docker_image": "ghcr.io/quentinlegay/gladys-eco-bike:0.1.0",
+  "version": "0.1.1",
+  "docker_image": "ghcr.io/quentinlegay/gladys-eco-bike:0.1.1",
   "gladys_version": ">=5.3.0",
   "cover_image": "https://raw.githubusercontent.com/quentinlegay/gladys-eco-bike/main/cover.png",
   "categories": ["environment", "services"],

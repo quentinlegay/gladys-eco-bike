@@ -10,6 +10,8 @@ the notes of the version's GitHub Release.
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-11-01
+
 ### Added
 
 - First version, from the official JavaScript template.
@@ -31,4 +33,5 @@ the notes of the version's GitHub Release.
   the savings", widgets "Eco Bike savings" and "Recent eco trips".
 - Configuration buttons "Test" and "Read the whole history again".
 
-[Unreleased]: https://github.com/quentinlegay/gladys-eco-bike/commits/main
+[Unreleased]: https://github.com/quentinlegay/gladys-eco-bike/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/quentinlegay/gladys-eco-bike/releases/tag/v0.1.1

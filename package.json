@@ -1,6 +1,6 @@
 {
   "name": "gladys-eco-bike",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "description": "Gladys Assistant external integration that shows the CO2 and money saved by riding instead of driving, from Strava trips and nearby fuel prices.",
   "type": "module",
